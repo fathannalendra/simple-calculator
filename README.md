@@ -23,7 +23,8 @@ It supports basic arithmetic operations:
 This project was created as part of my **JavaScript learning journey**, covering:
 - Variables
 - Functions
-- Conditionals (`if` / `switch`)
+- Looping (`do while`)
+- Conditionals (`switch`)
 - Math & logical operators
 - Input/Output with `prompt` and `document.writeln`
 
