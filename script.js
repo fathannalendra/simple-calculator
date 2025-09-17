@@ -1,4 +1,4 @@
-<script>
+
         //function minta angka
         function mintaAngka(pesan) {
             let nilai
@@ -43,4 +43,3 @@
         //menyimpan hasil function
         let hasilKalkulator = hitungKalkulator(x, y, op)
         document.writeln(`Hasil dari ${x} ${op} ${y} = ${hasilKalkulator}`)
-    </script>
