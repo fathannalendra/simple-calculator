@@ -1,5 +1,4 @@
-
-        //function minta angka
+//function minta angka
         function mintaAngka(pesan) {
             let nilai
             do {
